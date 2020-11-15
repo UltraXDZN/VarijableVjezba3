@@ -1,0 +1,7 @@
+D:\Zadace\Vjezba3\VarijableVjezba3\bin\Debug\VarijableVjezba3.exe.config
+D:\Zadace\Vjezba3\VarijableVjezba3\bin\Debug\VarijableVjezba3.exe
+D:\Zadace\Vjezba3\VarijableVjezba3\bin\Debug\VarijableVjezba3.pdb
+D:\Zadace\Vjezba3\VarijableVjezba3\obj\Debug\VarijableVjezba3.csprojAssemblyReference.cache
+D:\Zadace\Vjezba3\VarijableVjezba3\obj\Debug\VarijableVjezba3.csproj.CoreCompileInputs.cache
+D:\Zadace\Vjezba3\VarijableVjezba3\obj\Debug\VarijableVjezba3.exe
+D:\Zadace\Vjezba3\VarijableVjezba3\obj\Debug\VarijableVjezba3.pdb
